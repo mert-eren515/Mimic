@@ -4,7 +4,7 @@ A simple mouse and keyboard macro recorder built with Python, Tkinter and `pynpu
 
 ## Download
 
-Download `Mimic.exe` from the [Releases] and run it. No Python needed (Windows only).
+Download `Mimic.exe` from the [Releases](../../releases/latest) and run it. No Python needed (Windows only).
 
 Windows may show a SmartScreen warning because the app isn't signed. Click **More info → Run anyway**.
 
